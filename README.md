@@ -15,11 +15,11 @@ To detect the object, we have initialized the list of the 21 class labels Mobile
 5. Installation of time module
 
 ### Applications
-1.Activity Recognition
-2.Road condition monitoring
-3.Traffic flow monitoring
-4.Crowdedness estimation
-5.Product counting in manufacturing industries.
+1. Activity Recognition
+2. Road condition monitoring
+3. Traffic flow monitoring
+4. Crowdedness estimation
+5. Product counting in manufacturing industries.
 
 ### Conclusion
 The goal of Object Counting task is to count the number of object instances in a single image or video sequence. The accuracy of the algorithm depends upon different factors like the camera used, the size of objects, clarity of the image and other illumination conditions. Object detection is often combined with other computer vision techniques like tracking and counting to develop more robust applications that better solve real-life scenarios.
